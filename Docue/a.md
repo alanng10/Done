@@ -57,3 +57,5 @@ Done has major.
 Done has major on will.
 
 Done has major on trigg.
+
+Done is base on Gain.
