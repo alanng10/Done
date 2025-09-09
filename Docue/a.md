@@ -53,3 +53,7 @@ Done has park mark.
 Done has park cross.
 
 Done has major.
+
+Done has major on will.
+
+Done has major on trigg.
