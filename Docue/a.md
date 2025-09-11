@@ -60,4 +60,6 @@ Done has major on trigg.
 
 Done is base on Gain.
 
+Done is Gain goal orient.
+
 Geno is Done.
