@@ -63,3 +63,10 @@ Done is base on Gain.
 Done is Gain goal orient.
 
 Geno is Done.
+
+Done word has spell.
+The spell is:
+"D" for Dino Base.
+"o" for operate class.
+"n" for never emit.
+"e" for effect kind.
